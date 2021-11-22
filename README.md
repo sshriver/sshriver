@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 * Formerly Testing Analyst at Cognizant
 
 ### Contact me
-* Email: scott.s.shriver@gmail.com
+* Email: sshriver2380@floridapoly.edu or scott.s.shriver@gmail.com
 * LinkedIn: https://www.linkedin.com/in/scott-stewart-shriver/
