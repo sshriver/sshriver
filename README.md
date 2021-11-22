@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Scott Shriver
+
+### Background
+* Data Science Master's student at Florida Polytechnic University
+* Doing research into deep learning approaches for anomaly detection in trajectory data
+* Formerly Testing Analyst at Cognizant
+
+### Contact me
+* Email: scott.s.shriver@gmail.com
+* LinkedIn: https://www.linkedin.com/in/scott-stewart-shriver/
